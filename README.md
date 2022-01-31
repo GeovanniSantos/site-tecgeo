@@ -4,9 +4,9 @@
 
 ## Sobre o projeto
 
-TecGeo é uma aplicação front end construído para aprender HTML e CSS, principalmente para posicionamentos de elementos. 
+TecGeo é uma aplicação front end construído para colocar em prática os conhecimentos em HTML e CSS, principalmente para posicionamentos de elementos. 
 
 ## Tecnologias utilizadas
 
 - HTML
-- css
+- CSS
