@@ -1,4 +1,4 @@
-# TecGeo
+# ![pc-icon](https://github.com/GeovanniSantos/site-tecgeo/blob/master/ProjetoTecGeo/imagens/pc-icon.png) TecGeo
 
 ![animation](https://github.com/GeovanniSantos/site-tecgeo/blob/master/ProjetoTecGeo/imagens/animação.gif)
 
