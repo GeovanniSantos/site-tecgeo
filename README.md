@@ -4,6 +4,8 @@
 
 ## Sobre o projeto
 
+https://geovannisantos.github.io/site-tecgeo/
+
 TecGeo é uma aplicação front end construído para colocar em prática os conhecimentos em HTML e CSS, principalmente para posicionamentos de elementos. 
 
 ## Tecnologias utilizadas
